@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tixiaowei.github.io/yandexyandaa/sitemap.xml
